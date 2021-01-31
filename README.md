@@ -45,6 +45,9 @@ Overall, given the data, it seems male customers are more used to riding during 
 Some other visualization that can also be shown can be:
 
 - The customer mix to see what type of customers the business gets
+
 <img src='./resources/Cust_Mix.png'></img>
+
 - The peak hours with number of trips per hour as a whole:
+
 <img src='./resources/Peak_Hours.png'></img>
